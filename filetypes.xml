@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="armory" type="JAVA" />
+      <mapping pattern="SingletonTestUnit2" type="JAVA" />
+      <mapping ext="exe" type="JAVA" />
+      <mapping pattern="TestMain" type="JavaFX" />
+      <mapping pattern="SingletonTestUnit" type="PLAIN_TEXT" />
+      <mapping pattern="Armory" type="SPI" />
+      <mapping pattern="HelloWorld" type="XML" />
+    </extensionMap>
+  </component>
+</application>
